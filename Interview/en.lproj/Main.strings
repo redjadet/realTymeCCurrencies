@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "BTC"; ObjectID = "1tC-KH-g4r"; */
+"1tC-KH-g4r.text" = "BTC";
+
+/* Class = "UILabel"; text = "5 PLN"; ObjectID = "9os-D2-c4h"; */
+"9os-D2-c4h.text" = "5 PLN";
+
+/* Class = "UILabel"; text = "BTC"; ObjectID = "JeF-os-gKU"; */
+"JeF-os-gKU.text" = "BTC";
+
+/* Class = "UILabel"; text = "250000 PLN"; ObjectID = "NvT-Mb-SdF"; */
+"NvT-Mb-SdF.text" = "250000 PLN";
+
+/* Class = "UILabel"; text = "Fiat currency"; ObjectID = "T8U-LP-vrE"; */
+"T8U-LP-vrE.text" = "Fiat currency";
+
+/* Class = "UILabel"; text = "155767 PLN"; ObjectID = "WgX-d2-2oc"; */
+"WgX-d2-2oc.text" = "155767 PLN";
+
+/* Class = "UILabel"; text = "Highest price"; ObjectID = "XZY-IU-gll"; */
+"XZY-IU-gll.text" = "Highest price";
+
+/* Class = "UILabel"; text = "Last update time"; ObjectID = "ala-36-46p"; */
+"ala-36-46p.text" = "Last update time";
+
+/* Class = "UILabel"; text = "Symbol"; ObjectID = "fFK-5L-VmE"; */
+"fFK-5L-VmE.text" = "Symbol";
+
+/* Class = "UINavigationItem"; title = "Bitcoin"; ObjectID = "kgS-BJ-n4U"; */
+"kgS-BJ-n4U.title" = "Bitcoin";
+
+/* Class = "UIButton"; configuration.title = "Currency"; ObjectID = "pnE-zY-IYz"; */
+"pnE-zY-IYz.configuration.title" = "Currency";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pnE-zY-IYz"; */
+"pnE-zY-IYz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "22:33:44 29.01.2022"; ObjectID = "wMj-30-ZOF"; */
+"wMj-30-ZOF.text" = "22:33:44 29.01.2022";
+
+/* Class = "UINavigationItem"; title = "Cryptocurriencies"; ObjectID = "ylX-M9-dOX"; */
+"ylX-M9-dOX.title" = "Cryptocurriencies";
+
+/* Class = "UILabel"; text = "Lowest price"; ObjectID = "zQq-w7-vBA"; */
+"zQq-w7-vBA.text" = "Lowest price";
